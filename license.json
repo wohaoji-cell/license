@@ -15,7 +15,7 @@
 
     "online_hours": {
         "default": 48,
-        "ED65-118F-1F36-174D": 24
+        "ED65-118F-1F36-174D": 96
     },
 
     "force_offline": [
